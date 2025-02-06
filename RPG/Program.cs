@@ -116,7 +116,7 @@ namespace RPG
                             }
                             break;
                         default:
-                            returnString = "Command valid but not coded in yet.";
+                            returnString = "Command valid but not coded in yet."; // OH YEAH!!
                             break;
                     }
                 }
